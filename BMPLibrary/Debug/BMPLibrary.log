@@ -1,0 +1,7 @@
+﻿  BMPFileIO.c
+c:\users\cruffo\documents\visual studio 2015\projects\bmplibrary\bmplibrary\bmpfileio.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\cruffo\documents\visual studio 2015\projects\bmplibrary\bmplibrary\bmpfileio.c(139): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  BMPLibrary.vcxproj -> c:\users\cruffo\documents\visual studio 2015\Projects\BMPLibrary\Debug\BMPLibrary.exe
+  BMPLibrary.vcxproj -> c:\users\cruffo\documents\visual studio 2015\Projects\BMPLibrary\Debug\BMPLibrary.pdb (Full PDB)
