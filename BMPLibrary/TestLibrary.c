@@ -2,8 +2,7 @@
 
 int main() {
    BITMAPDATA bitmapData;
-   //char inFileName[256] = "C:\\Users\\cruffo\\Desktop\\Untitled24.bmp";
-   char inFileName[256] = "C:\\Users\\cruffo\\Desktop\\tiger.bmp";
+   char inFileName[256] = "C:\\tiger.bmp";
    char outFileName[256];
 
    LoadBitmapFile(inFileName, &bitmapData);
